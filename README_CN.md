@@ -1,1 +1,1 @@
-This File is used for translation into Chinese
+This File is used for translation into Chinese.
