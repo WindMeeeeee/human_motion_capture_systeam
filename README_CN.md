@@ -1,3 +1,3 @@
 This File is used for translation into Chinese.
-（此文本文件后期用于翻译.）
+（此文本文件是后期用于翻译.）
 
