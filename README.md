@@ -16,7 +16,7 @@ OPT8241 [TOF开发板](http://www.ti.com.cn/product/cn/opt8241/description/)，�
 
 
 #### TOF的优劣势
-Tof因为是主动式光捕系统，因此在抗干扰能力上较好。同期较为成熟的产品有Microsoft 的Kinect2，其实现的方案为RGB—D，除了深度信息外，还有RGB颜色
+Tof因为是主动式的光捕系统，因此在抗干扰能力上较好。同期较为成熟的产品有Microsoft 的Kinect2，其实现的方案为RGB—D，除了深度信息外，还有RGB颜色
 信息，Microsoft虽然提供了实现论文，但是同期并未有类似产品诞生，在细节上应该并未完全开源。现在机器学习领域中，RGB识别较为成熟，开源的项目也远多
 于TOF技术。除此之外，TOF的训练数据集远小于RGB的数据集.2018年秋天，Microsoft将推出Kinect4，且应该只对开发者开放，是否会产生合作模式，尚且不知。
     
